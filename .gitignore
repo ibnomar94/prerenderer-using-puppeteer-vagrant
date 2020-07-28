@@ -1,0 +1,4 @@
+.vagrant
+prerenderProject/node_modules/
+prerenderProject/prerendeScriptOutput.log
+*.log
