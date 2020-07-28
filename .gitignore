@@ -1,4 +1,5 @@
 .vagrant
 prerenderProject/node_modules/
 prerenderProject/prerendeScriptOutput.log
+prerenderProject/package-lock.json
 *.log
